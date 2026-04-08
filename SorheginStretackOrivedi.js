@@ -58,7 +58,7 @@ const PqowieuZmxnvb = () => {
 
   const ONESIGNAL_KEY = `8afdcd44-9e90-4b10-868e-775bdc474118`;
 
-  const TARGET_DATA = new Date(2026, 2, 8, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 3, 9, 8, 8, 0);
 
   useEffect(() => {
     const fetchData = async () => {
