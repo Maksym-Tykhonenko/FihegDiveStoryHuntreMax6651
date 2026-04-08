@@ -22,16 +22,16 @@ const LpOiUyTrEw = (): React.ReactElement => {
                     await AsyncStorage.setItem(ZxCvBnMqWe, 'scratched');
                 }
 
-                setTimeout(() => {
-                    if (!PlMnBvCx) return;
-
-                    setTimeout(() => {
-                        if (!PlMnBvCx) return;
-                        MnBvCxZaSd.replace(
-                            QwErTyUiOpAs ? 'HupowrtoKorntelnrReild' : 'FehderinOngberNuieth'
-                        );
-                    }, 1000 + ErTyUiOp);
-                }, 3000);
+                //setTimeout(() => {
+                //    if (!PlMnBvCx) return;
+//
+                //    setTimeout(() => {
+                //        if (!PlMnBvCx) return;
+                //        MnBvCxZaSd.replace(
+                //            QwErTyUiOpAs ? 'HupowrtoKorntelnrReild' : 'FehderinOngberNuieth'
+                //        );
+                //    }, 1000 + ErTyUiOp);
+                //}, 3000);
             } catch (UiOpAsDfGh) {
                 if (__DEV__) console.warn('LpOiUyTrEw::fail', UiOpAsDfGh);
             }
